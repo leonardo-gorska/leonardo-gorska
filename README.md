@@ -1,6 +1,6 @@
 ## Oi, eu sou o Leonardo 👋
 
-Desenvolvedor de software cursando ADS na Anhembi Morumbi (3º semestre). Já trabalhei como freelancer construindo um dashboard web completo com React 19 e Chakra UI, mas não me limito ao front-end — meus projetos pessoais vão de plugins em Java com 10k+ linhas até bots de automação e sistemas de IA.
+Desenvolvedor de software cursando Análise e Desenvolvimento de Sistemas (3º semestre). Tenho experiência construindo aplicações do zero ao deploy — do front-end com React 19 e UI modernas (FinTrack), passando pela criação de pipelines autônomos de IA e integrações em Python/Node.js, até arquiteturas robustas em Java com mais de 10 mil linhas de código e testes automatizados. Busco entregar não apenas código, mas soluções bem estruturadas e escaláveis.
 
 ### 🛠 Stack
 
@@ -19,18 +19,18 @@ Desenvolvedor de software cursando ADS na Anhembi Morumbi (3º semestre). Já tr
 
 | Projeto | O que é | Stack |
 |---------|---------|-------|
-| [GorvaxCore](https://github.com/leonardo-gorska/gorvax-plugin) | Plugin Minecraft com reinos, economia dinâmica e 7 bosses com IA — **10k+ linhas, 880 testes** | Java, Gradle, JUnit |
-| [GorvaxBot](https://github.com/leonardo-gorska/gorvax-price-bot) | Bot Telegram que rastreia preços de hardware em 6 lojas com web scraping stealth | Node.js, TypeScript, Puppeteer, Docker |
-| [AI Game Factory](https://github.com/leonardo-gorska/ai-game-factory) | Pipeline autônomo com 9 agentes de IA que criam e evoluem jogos de navegador | Python, FastAPI, Next.js, WebSocket |
-| [GorvaxMC Manual](https://github.com/leonardo-gorska/gorvaxmc-manual) | E-book interativo com design system completo e animações CSS | HTML, CSS, JavaScript |
+| [FinTrack](https://github.com/leonardo-gorska/fintrack) | Dashboard financeiro responsivo com gráficos (Recharts) e gestão de transações via arquitetura componentizada. | React 19, TypeScript, Chakra UI v3 |
+| [GorvaxCore](https://github.com/leonardo-gorska/gorvax-plugin) | Plugin com reinos, economia dinâmica e 7 bosses com IA — **10k+ linhas, 880 testes unitários** | Java, Gradle, JUnit |
+| [AI Game Factory](https://github.com/leonardo-gorska/ai-game-factory) | Pipeline autônomo com agentes de IA que criam e evoluem jogos de navegador iterativamente | Python, FastAPI, Next.js |
+| [GorvaxBot](https://github.com/leonardo-gorska/gorvax-price-bot) | Bot de rastreamento de preços de hardware em 6 e-commerces com scraping assíncrono avançado | Node.js, TS, Puppeteer, Docker |
+| [GorvaxMC Manual](https://github.com/leonardo-gorska/gorvaxmc-manual) | E-book interativo com design system customizado, focado em alta conversão e imersão | HTML, CSS, JavaScript |
 
 ### 📊 O que eu faço
 
-- **Back-end & APIs:** Java (Spring-level complexity), Node.js, FastAPI, Express
-- **Front-end:** React, TypeScript, Chakra UI, Recharts, i18n
-- **Automação:** Web scraping (Puppeteer), bots (Telegram), CI/CD
-- **Banco de dados:** MySQL, SQLite
-- **Infra:** Docker, Oracle Cloud, Linux, Git
+- **Front-end:** Desenvolvimento SPA web, componentização avançada (React, TS, Chakra UI, Recharts).
+- **Back-end & APIs:** Arquiteturas complexas e escaláveis (Java), APIs REST (Node.js, FastAPI).
+- **Automação:** Web scraping contornando medidas anti-bot (Puppeteer), integrações e scripts autônomos.
+- **Engenharia:** Testes unitários (JUnit / Vitest), conteinerização (Docker) e bancos de dados (MySQL, SQLite).
 
 ### 📫 Contato
 
