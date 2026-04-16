@@ -27,13 +27,14 @@ Desenvolvedor de software cursando ADS na Anhembi Morumbi (3o semestre). Ja trab
 
 ### O que eu faco
 
--**Back-end & APIs:** Java (Spring-level complexity), Node.js, FastAPI, Express
--**Front-end:** React, TypeScript, Chakra UI, Recharts, i18n
--**Automacao:** Web scraping (Puppeteer), bots (Telegram), CI/CD
--**Banco de dados:** PostgreSQL, Redis, MySQL, SQLite
--**Infra:** Docker, Oracle Cloud, Linux, Git
-
-### Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-gorska)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:leogorska22@hotmail.com)
+- **Back-end & APIs:** Java (Spring-level complexity), Node.js, FastAPI, Express
+- - **Front-end:** React, TypeScript, Chakra UI, Recharts, i18n
+  - - **Automacao:** Web scraping (Puppeteer), bots (Telegram), CI/CD
+    - - **Banco de dados:** PostgreSQL, Redis, MySQL, SQLite
+      - - **Infra:** Docker, Oracle Cloud, Linux, Git
+       
+        - ### Contato
+       
+        - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-gorska)
+        - [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:leogorska22@hotmail.com)
+        - 
