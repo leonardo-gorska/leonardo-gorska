@@ -1,38 +1,39 @@
-## Oi, eu sou o Leonardo 👋
+## Oi, eu sou o Leonardo
 
-Desenvolvedor de software cursando Análise e Desenvolvimento de Sistemas (3º semestre). Tenho experiência construindo aplicações do zero ao deploy — do front-end com React 19 e UI modernas (FinTrack), passando pela criação de pipelines autônomos de IA e integrações em Python/Node.js, até arquiteturas robustas em Java com mais de 10 mil linhas de código e testes automatizados. Busco entregar não apenas código, mas soluções bem estruturadas e escaláveis.
+Desenvolvedor de software cursando ADS na Anhembi Morumbi (3o semestre). Ja trabalhei como freelancer construindo um dashboard web completo com React 19 e Chakra UI, mas nao me limito ao front-end - meus projetos pessoais vao de plugins em Java com 10k+ linhas ate bots de automacao e sistemas de IA.
 
-### 🛠 Stack
+### Stack
 
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-### 📌 Projetos em destaque
+### Projetos em destaque
 
-| Projeto | O que é | Stack |
+| Projeto | O que e | Stack |
 |---------|---------|-------|
-| [FinTrack](https://github.com/leonardo-gorska/fintrack) | Dashboard financeiro responsivo com gráficos (Recharts) e gestão de transações via arquitetura componentizada. | React 19, TypeScript, Chakra UI v3 |
-| [GorvaxCore](https://github.com/leonardo-gorska/gorvax-plugin) | Plugin com reinos, economia dinâmica e 7 bosses com IA — **10k+ linhas, 880 testes unitários** | Java, Gradle, JUnit |
-| [AI Game Factory](https://github.com/leonardo-gorska/ai-game-factory) | Pipeline autônomo com agentes de IA que criam e evoluem jogos de navegador iterativamente | Python, FastAPI, Next.js |
-| [GorvaxBot](https://github.com/leonardo-gorska/gorvax-price-bot) | Bot de rastreamento de preços de hardware em 6 e-commerces com scraping assíncrono avançado | Node.js, TS, Puppeteer, Docker |
-| [GorvaxMC Manual](https://github.com/leonardo-gorska/gorvaxmc-manual) | E-book interativo com design system customizado, focado em alta conversão e imersão | HTML, CSS, JavaScript |
+| [NexusLink](https://github.com/leonardo-gorska/nexuslink) | Encurtador em Alta Disponibilidade com Mensageria Event-Driven e Rate Limiting Distribuido | Go, Postgres, Redis, RabbitMQ |
+| [GorvaxCore](https://github.com/leonardo-gorska/gorvax-plugin) | Plugin Minecraft com reinos, economia dinamica e 7 bosses com IA - **10k+ linhas, 880 testes** | Java, Gradle, SQLite |
+| [Auto-DevRel](https://github.com/leonardo-gorska/auto-devrel) | Automacao CLI Python que simula rotinas de Senior em DevOps, gerenciando tech-debts e PRs autonomamente. | Python, GitPython, PyGithub |
+| [GorvaxBot](https://github.com/leonardo-gorska/gorvax-price-bot) | Bot Telegram que rastreia precos de hardware em 6 lojas com web scraping stealth | TypeScript, Puppeteer, Docker |
 
-### 📊 O que eu faço
+### O que eu faco
 
-- **Front-end:** Desenvolvimento SPA web, componentização avançada (React, TS, Chakra UI, Recharts).
-- **Back-end & APIs:** Arquiteturas complexas e escaláveis (Java), APIs REST (Node.js, FastAPI).
-- **Automação:** Web scraping contornando medidas anti-bot (Puppeteer), integrações e scripts autônomos.
-- **Engenharia:** Testes unitários (JUnit / Vitest), conteinerização (Docker) e bancos de dados (MySQL, SQLite).
+-**Back-end & APIs:** Java (Spring-level complexity), Node.js, FastAPI, Express
+-**Front-end:** React, TypeScript, Chakra UI, Recharts, i18n
+-**Automacao:** Web scraping (Puppeteer), bots (Telegram), CI/CD
+-**Banco de dados:** PostgreSQL, Redis, MySQL, SQLite
+-**Infra:** Docker, Oracle Cloud, Linux, Git
 
-### 📫 Contato
+### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-gorska)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:leogorska22@hotmail.com)
