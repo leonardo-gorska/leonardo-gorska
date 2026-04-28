@@ -1,40 +1,69 @@
-## Oi, eu sou o Leonardo
+## Oi, eu sou o Leonardo 👋
 
-Desenvolvedor de software cursando ADS na Anhembi Morumbi (3o semestre). Ja trabalhei como freelancer construindo um dashboard web completo com React 19 e Chakra UI, mas nao me limito ao front-end - meus projetos pessoais vao de plugins em Java com 10k+ linhas ate bots de automacao e sistemas de IA.
+[![Portfólio](https://img.shields.io/badge/Acessar_Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://[sua-url-vercel-aqui].vercel.app/)
 
-### Stack
+Desenvolvedor de Software apaixonado por construir infraestruturas performáticas e interfaces reativas que impressionam o usuário final. Sou treinado para atuar sob o mindset de Engenharia de Software Moderna.
 
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+Tenho **experiência autônoma** e real construindo o Front-End de uma Dashboard financeira (6 meses de contrato) usando **React 19, TypeScript e Chakra UI**, onde cuidei de integrações, i18n, dark mode e painéis analíticos dinâmicos de dados.
 
-### Projetos em destaque
+Paralelamente, aprofundei minha base em backend com foco em desempenho: construí arquiteturas limpas com **Golang e RabbitMQ** e serviços corporativos robustos em **Java (Spring Boot)** e **Python (FastAPI)**.
 
-| Projeto | O que e | Stack |
-|---------|---------|-------|
-| [NexusLink](https://github.com/leonardo-gorska/nexuslink) | Encurtador em Alta Disponibilidade com Mensageria Event-Driven e Rate Limiting Distribuido | Go, Postgres, Redis, RabbitMQ |
-| [GorvaxCore](https://github.com/leonardo-gorska/gorvax-plugin) | Plugin Minecraft com reinos, economia dinamica e 7 bosses com IA - **10k+ linhas, 880 testes** | Java, Gradle, SQLite |
-| [Auto-DevRel](https://github.com/leonardo-gorska/auto-devrel) | Automacao CLI Python que simula rotinas de Senior em DevOps, gerenciando tech-debts e PRs autonomamente. | Python, GitPython, PyGithub |
-| [GorvaxBot](https://github.com/leonardo-gorska/gorvax-price-bot) | Bot Telegram que rastreia precos de hardware em 6 lojas com web scraping stealth | TypeScript, Puppeteer, Docker |
+Atualmente curso Análise e Desenvolvimento de Sistemas na Anhembi Morumbi (3º semestre) e estou em busca da minha primeira oportunidade interna como Estagiário ou Desenvolvedor Júnior.
 
-### O que eu faco
+### 🏢 Experiência Profissional
 
-- **Back-end & APIs:** Java (Spring-level complexity), Node.js, FastAPI, Express
-- - **Front-end:** React, TypeScript, Chakra UI, Recharts, i18n
-  - - **Automacao:** Web scraping (Puppeteer), bots (Telegram), CI/CD
-    - - **Banco de dados:** PostgreSQL, Redis, MySQL, SQLite
-      - - **Infra:** Docker, Oracle Cloud, Linux, Git
-       
-        - ### Contato
-       
-        - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-gorska)
-        - [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:leogorska22@hotmail.com)
-        - 
+**Desenvolvedor Front-End UI** | _Profissional Autônomo / Freelancer_ (Out/2025 - Mar/2026)
+- Responsável por codificar os artefatos visuais de um produto de gerenciamento analítico web desde o esqueleto ao deployment.
+- Desenvolvi componentes isolados em TypeScript com arquitetura modular através do ecossistema React 19 e Chakra UI v3.
+- Utilização de layouting moderno com suporte full-viewport drag and drop, padronização internacional das telas e gestão avançada do estado usando Zustand.
+
+### 📌 Projetos em Destaque
+
+| Projeto | Descrição | Stack Principal | Links |
+|---------|-----------|----------------|-------|
+| **[NexusLink](https://github.com/leonardo-gorska/nexuslink)** | Engine de encurtamento e rastreamento de URLs de alta performance sob Clean Architecture. Processamento assíncrono. | Golang, RabbitMQ, Redis, PostgreSQL | [Repositorio](https://github.com/leonardo-gorska/nexuslink) |
+| **[MedAgenda](https://github.com/leonardo-gorska/med-agenda)** | API REST de agendamento médico corporativo com validação de conflitos, JWT e Documentação OpenAPI automática. | Java 21, Spring Boot 3, PostgreSQL | [Repositorio](https://github.com/leonardo-gorska/med-agenda) |
+| **[FinTrack](https://github.com/leonardo-gorska/fintrack)** | Dashboard de finanças pessoais com visualização de dados interativos em tempo real. Dark Mode nativo e i18n. | React 19, TypeScript, Chakra UI v3 | [🟢 Live Demo](https://[sua-url-fintrack-aqui].vercel.app) |
+| **[LogiTrack API](https://github.com/leonardo-gorska/logitrack-api)** | API corporativa ultrarrápida para gestão logística usando processamento assíncrono ASGI e SQLAlchemy. | Python 3.12, FastAPI, Docker | [Repositorio](https://github.com/leonardo-gorska/logitrack-api) |
+| **[DevBlog](https://github.com/leonardo-gorska/dev-blog)** | Blog técnico sobre Engenharia de Software. Arquitetura híbrida com Server-Side Rendering e otimização SEO. | Next.js 15, React, MDX | [🟢 Live Demo](https://[sua-url-devblog-aqui].vercel.app) |
+| **[GorvaxCore](https://github.com/leonardo-gorska/gorvax-plugin)** | Plugin arquitetural com ecossistema massivo: 10k+ linhas de código, 880 testes unitários, economia e IA de bosses. | Java, Gradle, JUnit | [Repositorio](https://github.com/leonardo-gorska/gorvax-plugin) |
+
+### 📊 O que eu faço
+
+- **Back-End & Cloud-Native:** Arquiteturas limpas orientadas a eventos (RabbitMQ), serviços em Golang, APIs REST corporativas em Java (Spring Boot) e microserviços ágeis em Python (FastAPI).
+- **Front-End Reativo:** Desenvolvimento SPA/SSR (React 19, Next.js 15), componentização modular e design-systems (Chakra UI v3, Tailwind).
+- **Banco de Dados & Cache:** Persistência relacional otimizada (PostgreSQL, MySQL) e estratégias avançadas de caching (Redis Cache-Aside).
+- **DevSecOps:** Dockerização e orquestração leve (Docker Compose), CI/CD pipelines via Github Actions, e automação rigorosa.
+
+### 🛠 Stack
+
+<div align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+
+<br/>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardo-gorska&show_icons=true&theme=radical)](https://github.com/leonardo-gorska)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-gorska&layout=compact&theme=radical)](https://github.com/leonardo-gorska)
+
+### 📫 Contato
+
+<div align="left">
+  <a href="https://linkedin.com/in/leonardo-gorska">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:leogorska22@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
