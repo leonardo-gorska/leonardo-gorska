@@ -1,6 +1,6 @@
 ## Oi, eu sou o Leonardo 👋
 
-[![Portfólio](https://img.shields.io/badge/Acessar_Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://[sua-url-vercel-aqui].vercel.app/)
+[![Portfólio](https://img.shields.io/badge/Acessar_Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kohl-six-45.vercel.app/)
 
 Desenvolvedor de Software apaixonado por construir infraestruturas performáticas e interfaces reativas que impressionam o usuário final. Sou treinado para atuar sob o mindset de Engenharia de Software Moderna.
 
@@ -23,9 +23,9 @@ Atualmente curso Análise e Desenvolvimento de Sistemas na Anhembi Morumbi (3º 
 |---------|-----------|----------------|-------|
 | **[NexusLink](https://github.com/leonardo-gorska/nexuslink)** | Engine de encurtamento e rastreamento de URLs de alta performance sob Clean Architecture. Processamento assíncrono. | Golang, RabbitMQ, Redis, PostgreSQL | [Repositorio](https://github.com/leonardo-gorska/nexuslink) |
 | **[MedAgenda](https://github.com/leonardo-gorska/med-agenda)** | API REST de agendamento médico corporativo com validação de conflitos, JWT e Documentação OpenAPI automática. | Java 21, Spring Boot 3, PostgreSQL | [Repositorio](https://github.com/leonardo-gorska/med-agenda) |
-| **[FinTrack](https://github.com/leonardo-gorska/fintrack)** | Dashboard de finanças pessoais com visualização de dados interativos em tempo real. Dark Mode nativo e i18n. | React 19, TypeScript, Chakra UI v3 | [🟢 Live Demo](https://[sua-url-fintrack-aqui].vercel.app) |
+| **[FinTrack](https://github.com/leonardo-gorska/fintrack)** | Dashboard de finanças pessoais com visualização de dados interativos em tempo real. Dark Mode nativo e i18n. | React 19, TypeScript, Chakra UI v3 | [🟢 Live Demo](https://fintrack-rust-two.vercel.app) |
 | **[LogiTrack API](https://github.com/leonardo-gorska/logitrack-api)** | API corporativa ultrarrápida para gestão logística usando processamento assíncrono ASGI e SQLAlchemy. | Python 3.12, FastAPI, Docker | [Repositorio](https://github.com/leonardo-gorska/logitrack-api) |
-| **[DevBlog](https://github.com/leonardo-gorska/dev-blog)** | Blog técnico sobre Engenharia de Software. Arquitetura híbrida com Server-Side Rendering e otimização SEO. | Next.js 15, React, MDX | [🟢 Live Demo](https://[sua-url-devblog-aqui].vercel.app) |
+| **[DevBlog](https://github.com/leonardo-gorska/dev-blog)** | Blog técnico sobre Engenharia de Software. Arquitetura híbrida com Server-Side Rendering e otimização SEO. | Next.js 15, React, MDX | [🟢 Live Demo](https://dev-blog-ten-rho.vercel.app) |
 | **[GorvaxCore](https://github.com/leonardo-gorska/gorvax-plugin)** | Plugin arquitetural com ecossistema massivo: 10k+ linhas de código, 880 testes unitários, economia e IA de bosses. | Java, Gradle, JUnit | [Repositorio](https://github.com/leonardo-gorska/gorvax-plugin) |
 
 ### 📊 O que eu faço
